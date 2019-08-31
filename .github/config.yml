@@ -3,7 +3,7 @@
 # *OPTIONAL* Comment to reply with
 # Can be either a string :
 requestInfoReplyComment: >
-Please include a description for this PR!
+  Please include a description for this PR!
 
 # Or an array:
 # requestInfoReplyComment:
